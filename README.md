@@ -1,7 +1,7 @@
 ## Project Name
  Github-Search
 ## Developed by:
-Nancy Kigotho.
+Carlos Kipkoech.
 ## Description.
 This is a website where a user can input his/her github username and get to see his/her profile and all his/her repositories. 
 
