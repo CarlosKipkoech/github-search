@@ -12,7 +12,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 * cd Github-Search in your terminal
 * Run the command code.
 ## Contact information
-Incase you have any question or you woul want to work with me reach me via nancykigotho14@gmail.com
+Incase you have any question or you woul want to work with me reach me via carlos598798@gmail.com
 ## Live link
 
 ## GithubSearch
