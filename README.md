@@ -3,7 +3,7 @@
 ## Developed by:
 Carlos Kipkoech.
 ## Description.
-This is a website where a user can input his/her github username and get to see his/her profile and all his/her repositories.
+This is a website where a user can input his/her github username and get to see his/her profile and all his/her repositories
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.1
 ## Installation setup
